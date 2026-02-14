@@ -1,7 +1,15 @@
 ### Hi.Homies 👋
 
 # 💫 About Me:
-<br><br>👨‍💻 I'm a Backend Developer at Keture.(pvt).ltd, where I work on exciting projects that challenge and inspire me. I'm passionate about personal development, currently diving into C# and .NET while also exploring game design with Unity 🎮. My favorite tools are Visual Studio IDE and Visual Studio Code. On the side, I tutor JavaScript, sharing my knowledge and love for coding 📚. Although I’m just beginning with ML 🤖, I'm gearing up for my own project—stay tuned for exciting updates! 🚀
+👨‍💻 I’m a Backend Developer at Keture (Pvt) Ltd, building scalable and reliable systems that solve real-world problems. My core stack revolves around Fastify, Prisma, PostgreSQL, and JWT-based authentication, where I focus on performance, clean architecture, and production-grade backend design.
+
+🚀 I actively work on full-stack and backend-heavy projects, including Progressive Web Apps and API-driven systems. I’m deeply interested in system design, infrastructure optimization, and automation — constantly refining how applications perform in real environments.
+
+🛠️ Alongside backend development, I’m involved in Site Reliability Engineering (SRE) practices — monitoring servers, managing Linux environments, optimizing resource usage, handling swap/memory tuning, improving uptime, and automating operational workflows to ensure stability and high availability.
+
+📚 Beyond my professional work, I teach JavaScript and foundational programming concepts, helping beginners build strong fundamentals in software development and data structures.
+
+💡 My long-term vision is to grow into a highly skilled software architect, inventor, and tech entrepreneur — building impactful products that make a difference.
 
 
 ## 🌐 Socials:
